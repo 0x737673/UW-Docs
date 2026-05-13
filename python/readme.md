@@ -3,7 +3,7 @@ python c&c for interfacing with
 * FluidNC (jackpot v3) via HTTP to local AP
     * maybe without losing internet this time
 * OceanView's API (TBD - [USB 650 unsupported by seabreeze](https://sourceforge.net/p/seabreeze/tickets/32/) ([and py by ext](https://github.com/ap--/python-seabreeze/issues/47)))
-    * [OmniDriver 2.56](https://github.com/aphalo/romnidriver) (Java)
+    * [OmniDriver 2.56](https://github.com/aphalo/romnidriver) (R, Java)
     * OceanDirect?
         * looks like replacement to OmniDriver, unknown if USB 650 supported (signs point to no, but need test firsthand...)
             * python supported
